@@ -5,7 +5,8 @@
 
 
 二维码
-![](https://imgchr.com/i/Nx4gJg)
+--------
+![](https://s1.ax1x.com/2020/07/04/Nx4gJg.jpg)
 
 
 
