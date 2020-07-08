@@ -1,4 +1,12 @@
-**主要实现过程**
+**最终效果**
+
+![](https://s1.ax1x.com/2020/07/04/Nztw34.png)
+
+**完整代码**
+
+https://github.com/1395204913/CSSDemo/tree/master/petals_loading
+
+**主要实现代码**
 
 首先创建父容器load,再创建6个花瓣容器petal
 
@@ -82,4 +90,3 @@
     }
 }
 ```
-
